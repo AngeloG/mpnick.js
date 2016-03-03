@@ -15,3 +15,7 @@ You can use this regex to trim all formatting codes from names:
 # License
 
 Consider this public domain.
+
+## Todo
+
+There's 1 or 2 missing tags, as well as missing a formatting stack.
