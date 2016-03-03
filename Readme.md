@@ -12,7 +12,7 @@ You can use this regex to trim all formatting codes from names:
 /\$([0-9a-f]{3}|[ibnwsz<>]|[lh](\[[^\]]+\])?)/i
 ```
 
-# License
+## License
 
 Consider this public domain.
 
